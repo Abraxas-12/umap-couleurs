@@ -159,7 +159,7 @@
   ],
   "properties": {
     "displayOnLoad": true,
-    "inCaption": true,
+    "inCaption": false,
     "browsable": true,
     "name": "Bassines installées",
     "fields": [
