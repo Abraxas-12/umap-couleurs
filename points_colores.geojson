@@ -31,8 +31,10 @@
         "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée ",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gray"
-        }
+          "color": "green"
+        },
+        "date": "13/07/2026",
+        "age": 1
       },
       "id": "gKgp3"
     },
@@ -174,5 +176,5 @@
     "remoteData": {}
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 3
+  "rank": 2
 }
