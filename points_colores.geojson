@@ -148,7 +148,7 @@
       },
       "properties": {
         "_umap_options": {
-          "iconClass": "LargeCircle",
+          "iconClass": "Drop",
           "color": "gray"
         },
         "name": "Secteur Solaure",
@@ -180,5 +180,5 @@
     "remoteData": {}
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 2
+  "rank": 3
 }
