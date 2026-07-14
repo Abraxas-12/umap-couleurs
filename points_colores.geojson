@@ -135,25 +135,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.383987,
-          44.797891
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Nom de l'endroit + numéro si il y en a plusieurs (Barsac1)",
-        "description": "Indication pour trouver la bassine, etc.",
-        "date": "2026-07-11",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "nH17h"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.38639,
           44.701081
         ],
@@ -193,5 +174,5 @@
     "remoteData": {}
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 2
+  "rank": 3
 }
