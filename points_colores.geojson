@@ -5,18 +5,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.405445,
-          44.687284
+          5.309603,
+          44.763804
         ],
         "type": "Point"
       },
       "properties": {
+        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
         }
       },
-      "id": "zY9bu"
+      "id": "5Uaod"
     },
     {
       "type": "Feature",
@@ -42,19 +43,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.309603,
-          44.763804
+          5.405445,
+          44.687284
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
         }
       },
-      "id": "5Uaod"
+      "id": "zY9bu"
     },
     {
       "type": "Feature",
@@ -109,8 +109,10 @@
         "description": "Dans un virage, sur le côté gauche, la bassine est située près d'une grosse souche d'arbre, sur le passage d'un chemin d'animaux. Du rafia rose indique le lieu.  \n",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gray"
-        }
+          "color": "gold"
+        },
+        "date": "12/07/2026",
+        "age": 2
       },
       "id": "vL4Q4"
     },
@@ -125,11 +127,13 @@
       },
       "properties": {
         "name": "Bassine 2 Barnave",
-        "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres.1",
+        "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres.",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gray"
-        }
+          "color": "gold"
+        },
+        "date": "12/07/2026",
+        "age": 2
       },
       "id": "PQfdl"
     },
