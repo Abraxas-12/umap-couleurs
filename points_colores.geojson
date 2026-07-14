@@ -131,6 +131,24 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "l8Cr4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.374889,
+          44.683536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bassine",
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "gray"
+        }
+      },
+      "id": "7Bq4x"
     }
   ],
   "properties": {
