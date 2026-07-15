@@ -5,6 +5,24 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          5.309603,
+          44.763804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "gray"
+        }
+      },
+      "id": "5Uaod"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           5.273363,
           44.715631
         ],
@@ -20,24 +38,6 @@
         "age": 2
       },
       "id": "gKgp3"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.309603,
-          44.763804
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "gray"
-        }
-      },
-      "id": "5Uaod"
     },
     {
       "type": "Feature",
@@ -59,24 +59,6 @@
         "age": 1
       },
       "id": "bU2Zg"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.374889,
-          44.683536
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Bassine",
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "gray"
-        }
-      },
-      "id": "7Bq4x"
     },
     {
       "type": "Feature",
@@ -156,22 +138,6 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "l8Cr4"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.367851,
-          44.669996
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "A94Ik"
     }
   ],
   "properties": {
