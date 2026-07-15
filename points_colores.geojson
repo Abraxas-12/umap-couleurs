@@ -5,24 +5,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.309603,
-          44.763804
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "gray"
-        }
-      },
-      "id": "5Uaod"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.273363,
           44.715631
         ],
@@ -43,18 +25,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.405445,
-          44.687284
+          5.309603,
+          44.763804
         ],
         "type": "Point"
       },
       "properties": {
+        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
         }
       },
-      "id": "zY9bu"
+      "id": "5Uaod"
     },
     {
       "type": "Feature",
@@ -120,6 +103,24 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          5.365019,
+          44.663403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "{https://postimg.cc/gallery/cw0WmVf}",
+        "name": "Bassine 1 Barnave",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "34Iw2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           5.36599,
           44.66551
         ],
@@ -160,19 +161,17 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.365019,
-          44.663403
+          5.367851,
+          44.669996
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "{https://postimg.cc/gallery/cw0WmVf}",
-        "name": "Bassine 1 Barnave",
         "_umap_options": {
           "color": "gray"
         }
       },
-      "id": "34Iw2"
+      "id": "A94Ik"
     }
   ],
   "properties": {
