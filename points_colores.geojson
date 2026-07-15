@@ -5,24 +5,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.309603,
-          44.763804
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "gray"
-        }
-      },
-      "id": "5Uaod"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.273363,
           44.715631
         ],
@@ -38,6 +20,24 @@
         "age": 2
       },
       "id": "gKgp3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.309603,
+          44.763804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "gray"
+        }
+      },
+      "id": "5Uaod"
     },
     {
       "type": "Feature",
@@ -80,24 +80,6 @@
         "age": 0
       },
       "id": "vL4Q4"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.365019,
-          44.663403
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "{https://postimg.cc/gallery/cw0WmVf}",
-        "name": "Bassine 1 Barnave",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "34Iw2"
     },
     {
       "type": "Feature",
