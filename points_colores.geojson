@@ -5,18 +5,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.405445,
-          44.687284
+          5.309603,
+          44.763804
         ],
         "type": "Point"
       },
       "properties": {
+        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
         }
       },
-      "id": "zY9bu"
+      "id": "5Uaod"
     },
     {
       "type": "Feature",
@@ -42,19 +43,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.309603,
-          44.763804
+          5.405445,
+          44.687284
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
         }
       },
-      "id": "5Uaod"
+      "id": "zY9bu"
     },
     {
       "type": "Feature",
@@ -155,6 +155,24 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "l8Cr4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.365019,
+          44.663403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "{https://postimg.cc/gallery/cw0WmVf}",
+        "name": "Bassine 1 Barnave",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "34Iw2"
     }
   ],
   "properties": {
