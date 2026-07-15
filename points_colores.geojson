@@ -17,7 +17,7 @@
           "color": "gold"
         },
         "date": "13/07/2026",
-        "age": 2
+        "age": 3
       },
       "id": "gKgp3"
     },
@@ -53,10 +53,10 @@
         "description": "Deux bassines , une grande une petite. Contenance totale 50l \nInstallée le 14/07",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "green"
+          "color": "gold"
         },
         "date": "14/07/2026",
-        "age": 1
+        "age": 2
       },
       "id": "bU2Zg"
     },
@@ -77,7 +77,7 @@
           "color": "green"
         },
         "date": "15/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "vL4Q4"
     },
@@ -98,7 +98,7 @@
           "color": "green"
         },
         "date": "15/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "PQfdl"
     },
