@@ -15,7 +15,8 @@
         "_umap_options": {
           "iconClass": "Drop",
           "color": "gray"
-        }
+        },
+        "name": "Pontaix"
       },
       "id": "5Uaod"
     },
@@ -35,6 +36,7 @@
           "color": "green"
         },
         "date": "16/07/2026",
+        "name": "Aurel proche barsac",
         "age": 0
       },
       "id": "gKgp3"
