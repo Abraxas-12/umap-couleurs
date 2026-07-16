@@ -122,6 +122,25 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "l8Cr4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.296403,
+          44.704141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bassine Aurel ",
+        "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026\nPoint GPS : 44,704141 ; 5,296403",
+        "date": "2026-07-16",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "5932K"
     }
   ],
   "properties": {
