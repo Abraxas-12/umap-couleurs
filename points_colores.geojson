@@ -20,7 +20,7 @@
         "name": "Aurel proche barsac",
         "age": 0
       },
-      "id": "gKgp3"
+      "id": "w2YsS"
     },
     {
       "type": "Feature",
@@ -41,7 +41,7 @@
         "date": "14/07/2026",
         "age": 2
       },
-      "id": "bU2Zg"
+      "id": "IzCER"
     },
     {
       "type": "Feature",
@@ -62,7 +62,7 @@
         "date": "15/07/2026",
         "age": 1
       },
-      "id": "vL4Q4"
+      "id": "t4swg"
     },
     {
       "type": "Feature",
@@ -83,7 +83,7 @@
         "date": "15/07/2026",
         "age": 1
       },
-      "id": "PQfdl"
+      "id": "5bDY2"
     },
     {
       "type": "Feature",
@@ -103,7 +103,7 @@
           "color": "green"
         }
       },
-      "id": "5932K"
+      "id": "BpUih"
     },
     {
       "type": "Feature",
@@ -118,11 +118,13 @@
         "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gray"
+          "color": "green"
         },
-        "name": "Pontaix"
+        "name": "Pontaix",
+        "date": "16/07/2026",
+        "age": 0
       },
-      "id": "5Uaod"
+      "id": "l4Lfe"
     },
     {
       "type": "Feature",
@@ -141,7 +143,7 @@
         "name": "Secteur Solaure",
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
-      "id": "l8Cr4"
+      "id": "0SC49"
     }
   ],
   "properties": {
