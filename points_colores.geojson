@@ -14,11 +14,11 @@
         "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "green"
+          "color": "gold"
         },
         "date": "16/07/2026",
         "name": "Aurel proche barsac",
-        "age": 1
+        "age": 2
       },
       "id": "w2YsS"
     },
@@ -36,10 +36,10 @@
         "description": "Deux bassines , une grande une petite. Contenance totale 50l \nInstallée le 14/07",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gold"
+          "color": "red"
         },
         "date": "14/07/2026",
-        "age": 3
+        "age": 4
       },
       "id": "IzCER"
     },
@@ -60,7 +60,7 @@
           "color": "gold"
         },
         "date": "15/07/2026",
-        "age": 2
+        "age": 3
       },
       "id": "t4swg"
     },
@@ -81,7 +81,7 @@
           "color": "gold"
         },
         "date": "15/07/2026",
-        "age": 2
+        "age": 3
       },
       "id": "5bDY2"
     },
@@ -98,9 +98,9 @@
         "name": "Bassine Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026\nPoint GPS : 44,704141 ; 5,296403",
         "date": "16/07/2026",
-        "age": 1,
+        "age": 2,
         "_umap_options": {
-          "color": "green",
+          "color": "gold",
           "iconClass": "Drop"
         }
       },
@@ -119,11 +119,11 @@
         "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "green"
+          "color": "gold"
         },
         "name": "Pontaix",
         "date": "16/07/2026",
-        "age": 1
+        "age": 2
       },
       "id": "l4Lfe"
     },
