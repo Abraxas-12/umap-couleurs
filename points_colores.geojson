@@ -145,6 +145,57 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "0SC49"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36844671558356,
+          44.69460876719492
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "U03Wh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36844671558356,
+          44.69460876719492
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "S8t5e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3749,
+          44.683476
+        ]
+      },
+      "properties": {
+        "name": "Entrée vieux Montmaur",
+        "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
+        "date": "2026-07-18",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "KLleY"
     }
   ],
   "properties": {
