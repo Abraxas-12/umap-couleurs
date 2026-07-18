@@ -18,7 +18,7 @@
         },
         "date": "16/07/2026",
         "name": "Aurel proche barsac",
-        "age": 2
+        "age": 3
       },
       "id": "w2YsS"
     },
@@ -39,7 +39,7 @@
           "color": "red"
         },
         "date": "14/07/2026",
-        "age": 4
+        "age": 5
       },
       "id": "IzCER"
     },
@@ -60,7 +60,7 @@
           "color": "green"
         },
         "date": "18/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "t4swg"
     },
@@ -81,7 +81,7 @@
           "color": "green"
         },
         "date": "18/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "5bDY2"
     },
@@ -98,7 +98,7 @@
         "name": "Bassine Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026\nPoint GPS : 44,704141 ; 5,296403",
         "date": "16/07/2026",
-        "age": 2,
+        "age": 3,
         "_umap_options": {
           "color": "gold",
           "iconClass": "Drop"
@@ -123,7 +123,7 @@
         },
         "name": "Pontaix",
         "date": "16/07/2026",
-        "age": 2
+        "age": 3
       },
       "id": "l4Lfe"
     },
