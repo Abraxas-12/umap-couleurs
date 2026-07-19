@@ -4,6 +4,38 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36844671558356,
+          44.69460876719492
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "S8t5e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36844671558356,
+          44.69460876719492
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "U03Wh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           5.273363,
           44.715631
@@ -14,11 +46,11 @@
         "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gold"
+          "color": "green"
         },
-        "date": "16/07/2026",
+        "date": "19/07/2026",
         "name": "Aurel proche barsac",
-        "age": 3
+        "age": 0
       },
       "id": "w2YsS"
     },
@@ -109,6 +141,25 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3749,
+          44.683476
+        ]
+      },
+      "properties": {
+        "name": "Entrée vieux Montmaur",
+        "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
+        "date": "2026-07-18",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "KLleY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           5.309603,
           44.763804
@@ -145,57 +196,6 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "0SC49"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.36844671558356,
-          44.69460876719492
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "U03Wh"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.36844671558356,
-          44.69460876719492
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "S8t5e"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3749,
-          44.683476
-        ]
-      },
-      "properties": {
-        "name": "Entrée vieux Montmaur",
-        "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
-        "date": "2026-07-18",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "KLleY"
     }
   ],
   "properties": {
