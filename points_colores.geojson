@@ -150,9 +150,11 @@
       "properties": {
         "name": "Entrée vieux Montmaur",
         "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
-        "date": "2026-07-18",
+        "date": "18/07/2026",
+        "age": 1,
         "_umap_options": {
-          "color": "gray"
+          "color": "green",
+          "iconClass": "Drop"
         }
       },
       "id": "KLleY"
@@ -170,11 +172,11 @@
         "description": "Espace pour se garer sur le bord de la route\nFicelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois ",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gold"
+          "color": "green"
         },
         "name": "Pontaix",
-        "date": "16/07/2026",
-        "age": 3
+        "date": "19/07/2026",
+        "age": 0
       },
       "id": "l4Lfe"
     },
