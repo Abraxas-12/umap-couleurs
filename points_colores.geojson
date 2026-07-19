@@ -50,7 +50,7 @@
         },
         "date": "19/07/2026",
         "name": "Aurel proche barsac",
-        "age": 0
+        "age": 1
       },
       "id": "w2YsS"
     },
@@ -71,7 +71,7 @@
           "color": "red"
         },
         "date": "14/07/2026",
-        "age": 5
+        "age": 6
       },
       "id": "IzCER"
     },
@@ -89,10 +89,10 @@
         "description": "Dans un virage, sur le côté gauche, la bassine est située près d'une grosse souche d'arbre, sur le passage d'un chemin d'animaux. Du rafia rose indique le lieu.  \n25l / installée le 12 juillet 2026\n{{https://postimg.cc/gallery/Dbd4nMq}}",
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "green"
+          "color": "gold"
         },
         "date": "18/07/2026",
-        "age": 1
+        "age": 2
       },
       "id": "t4swg"
     },
@@ -113,7 +113,7 @@
           "color": "green"
         },
         "date": "19/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "5bDY2"
     },
@@ -130,7 +130,7 @@
         "name": "Bassine Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026\nPoint GPS : 44,704141 ; 5,296403",
         "date": "19/07/2026",
-        "age": 0,
+        "age": 1,
         "_umap_options": {
           "color": "green",
           "iconClass": "Drop"
@@ -151,9 +151,9 @@
         "name": "Entrée vieux Montmaur",
         "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
         "date": "18/07/2026",
-        "age": 1,
+        "age": 2,
         "_umap_options": {
-          "color": "green",
+          "color": "gold",
           "iconClass": "Drop"
         }
       },
@@ -176,7 +176,7 @@
         },
         "name": "Pontaix",
         "date": "19/07/2026",
-        "age": 0
+        "age": 1
       },
       "id": "l4Lfe"
     },
