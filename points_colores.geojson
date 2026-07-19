@@ -15,7 +15,7 @@
           "color": "gray"
         }
       },
-      "id": "S8t5e"
+      "id": "U03Wh"
     },
     {
       "type": "Feature",
@@ -31,7 +31,7 @@
           "color": "gray"
         }
       },
-      "id": "U03Wh"
+      "id": "S8t5e"
     },
     {
       "type": "Feature",
@@ -129,10 +129,10 @@
       "properties": {
         "name": "Bassine Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026\nPoint GPS : 44,704141 ; 5,296403",
-        "date": "16/07/2026",
-        "age": 3,
+        "date": "19/07/2026",
+        "age": 0,
         "_umap_options": {
-          "color": "gold",
+          "color": "green",
           "iconClass": "Drop"
         }
       },
