@@ -15,7 +15,7 @@
           "color": "gray"
         }
       },
-      "id": "U03Wh"
+      "id": "S8t5e"
     },
     {
       "type": "Feature",
@@ -31,7 +31,7 @@
           "color": "gray"
         }
       },
-      "id": "S8t5e"
+      "id": "U03Wh"
     },
     {
       "type": "Feature",
@@ -198,6 +198,24 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "0SC49"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326238,
+          44.641366
+        ]
+      },
+      "properties": {
+        "name": "Installation de 2 bassines",
+        "description": "Carlotta,Martin, Agaric,René installation de 2 bassines le 15/07/26",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "CxX3c"
     }
   ],
   "properties": {
