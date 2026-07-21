@@ -234,7 +234,7 @@
     ],
     "iconClass": "Drop",
     "remoteData": {},
-    "popupContentTemplate": "# {zone}\n**{qui s'en occupe}**\n---\n{description}"
+    "popupContentTemplate": "# Zone : {zone}\n**{qui s'en occupe}**\n---\nDate de l'eau : {date}\n{description}"
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
   "rank": 7
