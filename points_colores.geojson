@@ -4,38 +4,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.36844671558356,
-          44.69460876719492
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "S8t5e"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.36844671558356,
-          44.69460876719492
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "U03Wh"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           5.273363,
           44.715631
