@@ -36,6 +36,54 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326459407806397,
+          44.6430263413238
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "iboTq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326459407806397,
+          44.6430263413238
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "hg4eI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326459407806397,
+          44.6430263413238
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "hiRI9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           5.273363,
           44.715631
@@ -143,6 +191,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.326041,
+          44.642954
+        ]
+      },
+      "properties": {
+        "name": "Carlotta, Agaric, Martin, René",
+        "description": "Installation de 2 Bassines le 15/07/26",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "LDI6k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.3749,
           44.683476
         ]
@@ -158,6 +224,24 @@
         }
       },
       "id": "KLleY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326238,
+          44.641366
+        ]
+      },
+      "properties": {
+        "name": "Installation de 2 bassines",
+        "description": "Carlotta,Martin, Agaric,René installation de 2 bassines le 15/07/26",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "CxX3c"
     },
     {
       "type": "Feature",
@@ -198,90 +282,6 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. \nAu total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux. \nContact Borium (Alice Barreau) ou Martin "
       },
       "id": "0SC49"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326238,
-          44.641366
-        ]
-      },
-      "properties": {
-        "name": "Installation de 2 bassines",
-        "description": "Carlotta,Martin, Agaric,René installation de 2 bassines le 15/07/26",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "CxX3c"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326459407806397,
-          44.6430263413238
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "iboTq"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326459407806397,
-          44.6430263413238
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "hg4eI"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326459407806397,
-          44.6430263413238
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "hiRI9"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326041,
-          44.642954
-        ]
-      },
-      "properties": {
-        "name": "Carlotta, Agaric, Martin, René",
-        "description": "Installation de 2 Bassines le15/07/26",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "LDI6k"
     }
   ],
   "properties": {
