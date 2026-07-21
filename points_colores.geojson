@@ -178,13 +178,13 @@
       "properties": {
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gold"
+          "color": "green"
         },
-        "date": "19/07/2026",
-        "zone": "Pontaix",
+        "date": "21/07/2026",
+        "zone": "Die / Sainte-Croix",
         "qui s'en occupe": "Rita, Camille",
         "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois  19/07: 30 litres bues en 3 jours. On va installer une 2ème bassine pas loin cette semaine",
-        "age": 2
+        "age": 0
       },
       "id": "l4Lfe"
     },
@@ -237,5 +237,5 @@
     "popupContentTemplate": "# Zone : {zone}\n**{qui s'en occupe}**\n_____________________________\nDate de l'eau : {date}\n\n{description}"
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 7
+  "rank": 4
 }
