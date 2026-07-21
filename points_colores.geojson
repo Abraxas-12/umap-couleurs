@@ -207,6 +207,26 @@
         "qui s'en occupe": "Borium (Alice Barreau) et Martin "
       },
       "id": "0SC49"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3095,
+          44.763799
+        ]
+      },
+      "properties": {
+        "zone": "Die / Sainte-Croix 2",
+        "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
+        "date": "2026-07-21",
+        "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "AJMbN"
     }
   ],
   "properties": {
