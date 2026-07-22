@@ -92,13 +92,13 @@
         ]
       },
       "properties": {
-        "date": "18/07/2026",
+        "date": "22/07/2026",
         "zone": "Entrée vieux Montmaur",
         "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
         "qui s'en occupe": "Claire ",
-        "age": 4,
+        "age": 0,
         "_umap_options": {
-          "color": "red",
+          "color": "green",
           "iconClass": "Drop"
         }
       },
