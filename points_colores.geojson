@@ -15,7 +15,7 @@
           "color": "gray"
         }
       },
-      "id": "dqCLu"
+      "id": "ztfnI"
     },
     {
       "type": "Feature",
@@ -35,7 +35,7 @@
         "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. Au total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux.",
         "qui s'en occupe": "Borium (Alice Barreau) et Martin "
       },
-      "id": "hkBCu"
+      "id": "0PTks"
     },
     {
       "type": "Feature",
@@ -57,7 +57,7 @@
         "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois  19/07: 30 litres bues en 3 jours. On va installer une 2ème bassine pas loin cette semaine",
         "age": 1
       },
-      "id": "TXu6U"
+      "id": "GXqWF"
     },
     {
       "type": "Feature",
@@ -76,7 +76,7 @@
           "color": "gray"
         }
       },
-      "id": "HXQLq"
+      "id": "8BCcM"
     },
     {
       "type": "Feature",
@@ -98,7 +98,7 @@
           "iconClass": "Drop"
         }
       },
-      "id": "NDW7X"
+      "id": "rImcD"
     },
     {
       "type": "Feature",
@@ -117,7 +117,7 @@
           "color": "gray"
         }
       },
-      "id": "oY9sT"
+      "id": "43k5J"
     },
     {
       "type": "Feature",
@@ -138,7 +138,7 @@
           "iconClass": "Drop"
         }
       },
-      "id": "x3tlG"
+      "id": "UuHk0"
     },
     {
       "type": "Feature",
@@ -159,7 +159,7 @@
         "description": "Dans un virage, sur le côté gauche, la bassine est située près d'une grosse souche d'arbre, sur le passage d'un chemin d'animaux. Du rafia rose indique le lieu.   25l / installée le 12 juillet 2026 {{https://postimg.cc/gallery/Dbd4nMq}}",
         "age": 0
       },
-      "id": "du8SM"
+      "id": "qae84"
     },
     {
       "type": "Feature",
@@ -181,7 +181,7 @@
         "description": "Deux bassines , une grande une petite. Contenance totale 50l  Installée le 14/07",
         "age": 8
       },
-      "id": "dWGgG"
+      "id": "OS3yo"
     },
     {
       "type": "Feature",
@@ -202,7 +202,7 @@
         "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
         "age": 0
       },
-      "id": "y1uLz"
+      "id": "qZgsQ"
     },
     {
       "type": "Feature",
@@ -223,7 +223,7 @@
         "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres. 25l / installée le 1e juillet 2026",
         "age": 0
       },
-      "id": "NvNxt"
+      "id": "jfMFH"
     },
     {
       "type": "Feature",
@@ -245,7 +245,7 @@
           "iconClass": "Drop"
         }
       },
-      "id": "C6FUU"
+      "id": "swVYs"
     },
     {
       "type": "Feature",
@@ -267,7 +267,7 @@
           "iconClass": "Drop"
         }
       },
-      "id": "PWVax"
+      "id": "BUyC6"
     }
   ],
   "properties": {
