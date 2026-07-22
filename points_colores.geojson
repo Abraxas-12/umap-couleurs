@@ -25,22 +25,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.349312,
-          44.71405
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "9qiP6"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           5.273363,
           44.715631
@@ -250,38 +234,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.365135193278548,
-          44.6944920521232
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "GbkYO"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.365135193278548,
-          44.6944920521232
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "5Iu5C"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.362701,
           44.667188
         ]
@@ -292,70 +244,6 @@
         }
       },
       "id": "dqCLu"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.367164611816407,
-          44.73478401305022
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "w1a5b"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.367164611816407,
-          44.73478401305022
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "DkyYJ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.367164611816407,
-          44.73478401305022
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "GfD9l"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.367164611816407,
-          44.73478401305022
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "j9ni6"
     },
     {
       "type": "Feature",
@@ -409,5 +297,5 @@
     "remoteData": {}
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 3
+  "rank": 2
 }
