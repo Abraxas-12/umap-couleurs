@@ -20,26 +20,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3095,
-          44.763799
-        ]
-      },
-      "properties": {
-        "zone": "Die / Sainte-Croix 2",
-        "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
-        "date": "2026/07/21",
-        "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "C6FUU"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           5.38639,
           44.701081
@@ -250,6 +230,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.3095,
+          44.763799
+        ]
+      },
+      "properties": {
+        "zone": "Die / Sainte-Croix 2",
+        "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
+        "date": "21/07/2026",
+        "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
+        "age": 1,
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Drop"
+        }
+      },
+      "id": "C6FUU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.313921,
           44.661044
         ]
@@ -257,10 +259,12 @@
       "properties": {
         "name": "Rimon Valat",
         "description": "Bassine 8L en observation",
-        "date": "2026/07/22",
+        "date": "22/07/2026",
         "qui s'en occupe": "Pierre et Karine",
+        "age": 0,
         "_umap_options": {
-          "color": "gray"
+          "color": "green",
+          "iconClass": "Drop"
         }
       },
       "id": "PWVax"
