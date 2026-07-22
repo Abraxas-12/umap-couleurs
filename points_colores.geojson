@@ -280,10 +280,10 @@
       },
       "properties": {
         "description": "test",
-        "date": "2022-02-12",
+        "date": "2026-07-18",
         "zone": "vercors",
         "qui s'en occupe": "grabuge",
-        "age": 1621,
+        "age": 4,
         "_umap_options": {
           "color": "red",
           "iconClass": "Drop"
