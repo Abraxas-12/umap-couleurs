@@ -280,12 +280,12 @@
       },
       "properties": {
         "description": "test",
-        "date": "2026-07-21",
+        "date": "2026-07-20",
         "zone": "vercors",
         "qui s'en occupe": "grabuge",
-        "age": 1,
+        "age": 2,
         "_umap_options": {
-          "color": "green",
+          "color": "gold",
           "iconClass": "Drop"
         }
       },
