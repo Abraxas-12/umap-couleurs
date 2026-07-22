@@ -15,7 +15,7 @@
         "date": "22/07/2026",
         "qui s'en occupe": "Pierre et Karine",
         "zone": "Rimon Valat",
-        "age": 0,
+        "age": 1,
         "_umap_options": {
           "color": "green",
           "iconClass": "Drop"
@@ -37,9 +37,9 @@
         "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
         "date": "21/07/2026",
         "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
-        "age": 1,
+        "age": 2,
         "_umap_options": {
-          "color": "green",
+          "color": "gold",
           "iconClass": "Drop"
         }
       },
@@ -63,7 +63,7 @@
         "zone": "Barnave 2",
         "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres. 25l / installée le 1e juillet 2026",
         "qui s'en occupe": "Groupe bar.nave",
-        "age": 0
+        "age": 1
       },
       "id": "jfMFH"
     },
@@ -85,7 +85,7 @@
         "zone": "Aurel proche barsac",
         "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
         "qui s'en occupe": "Nina, Alexei, Camille",
-        "age": 0
+        "age": 1
       },
       "id": "qZgsQ"
     },
@@ -107,7 +107,7 @@
         "zone": "Saint-Étienne",
         "qui s'en occupe": "Auriane",
         "description": "Deux bassines , une grande une petite. Contenance totale 50l  Installée le 14/07",
-        "age": 8
+        "age": 9
       },
       "id": "OS3yo"
     },
@@ -129,7 +129,7 @@
         "zone": "Barnave 1",
         "description": "Dans un virage, sur le côté gauche, la bassine est située près d'une grosse souche d'arbre, sur le passage d'un chemin d'animaux. Du rafia rose indique le lieu.   25l / installée le 12 juillet 2026",
         "qui s'en occupe": "Sophie",
-        "age": 0
+        "age": 1
       },
       "id": "qae84"
     },
@@ -147,7 +147,7 @@
         "zone": "Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026 Point GPS : 44,704141 ; 5,296403",
         "qui s'en occupe": "Lucile",
-        "age": 0,
+        "age": 1,
         "_umap_options": {
           "color": "green",
           "iconClass": "Drop"
@@ -188,7 +188,7 @@
         "zone": "Entrée vieux Montmaur",
         "description": "Une auge accolée au bâtiment à l'entrée du vieux village ",
         "qui s'en occupe": "Claire ",
-        "age": 0,
+        "age": 1,
         "_umap_options": {
           "color": "green",
           "iconClass": "Drop"
@@ -227,13 +227,13 @@
       "properties": {
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "green"
+          "color": "gold"
         },
         "date": "21/07/2026",
         "zone": "Die / Sainte-Croix",
         "qui s'en occupe": "Rita, Camille",
         "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine enterrée dans les sous bois  19/07: 30 litres bues en 3 jours. On va installer une 2ème bassine pas loin cette semaine",
-        "age": 1
+        "age": 2
       },
       "id": "GXqWF"
     },
