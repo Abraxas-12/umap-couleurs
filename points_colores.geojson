@@ -283,8 +283,10 @@
         "date": "2022-02-12",
         "zone": "vercors",
         "qui s'en occupe": "grabuge",
+        "age": 1621,
         "_umap_options": {
-          "color": "gray"
+          "color": "red",
+          "iconClass": "Drop"
         }
       },
       "id": "SYrN2"
