@@ -257,10 +257,10 @@
         ]
       },
       "properties": {
-        "name": "Rimon Valat",
         "description": "Bassine 8L en observation",
         "date": "22/07/2026",
         "qui s'en occupe": "Pierre et Karine",
+        "zone": "Rimon Valat",
         "age": 0,
         "_umap_options": {
           "color": "green",
@@ -276,10 +276,6 @@
     "browsable": true,
     "name": "Bassines installées",
     "fields": [
-      {
-        "key": "name",
-        "type": "String"
-      },
       {
         "key": "description",
         "type": "Text"
