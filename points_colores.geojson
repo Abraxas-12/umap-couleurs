@@ -268,28 +268,6 @@
         }
       },
       "id": "BUyC6"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.497627,
-          45.018176
-        ]
-      },
-      "properties": {
-        "description": "test",
-        "date": "2026-07-20",
-        "zone": "vercors",
-        "qui s'en occupe": "grabuge",
-        "age": 2,
-        "_umap_options": {
-          "color": "gold",
-          "iconClass": "Drop"
-        }
-      },
-      "id": "SYrN2"
     }
   ],
   "properties": {
