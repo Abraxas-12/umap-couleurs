@@ -221,7 +221,7 @@
       "properties": {
         "zone": "Die / Sainte-Croix 2",
         "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
-        "date": "2026-07-21",
+        "date": "2026/07/21",
         "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
         "_umap_options": {
           "color": "gray"
@@ -257,7 +257,7 @@
       "properties": {
         "name": "Rimon Valat",
         "description": "Bassine 8L en observation",
-        "date": "2026-07-22",
+        "date": "2026/07/22",
         "qui s'en occupe": "Pierre et Karine",
         "_umap_options": {
           "color": "gray"
@@ -297,5 +297,5 @@
     "remoteData": {}
   },
   "id": "fdd09c5b-43d0-4b32-97f2-fb4d13bdaf92",
-  "rank": 2
+  "rank": 4
 }
