@@ -228,6 +228,22 @@
         "age": 3
       },
       "id": "w2YsS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.349312,
+          44.71405
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "S5zvG"
     }
   ],
   "properties": {
