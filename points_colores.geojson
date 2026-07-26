@@ -4,22 +4,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.362701,
-          44.667188
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "ztfnI"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           5.38639,
           44.701081
@@ -49,13 +33,13 @@
       "properties": {
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gold"
+          "color": "green"
         },
-        "date": "23/07/2026",
+        "date": "26/07/2026",
         "zone": "Die / Sainte-Croix",
         "qui s'en occupe": "Rita, Camille",
         "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine bleue enterrée dans les sous bois. Deuxième bassine un peu plus haut en remontant la coulée 19/07: 30 litres bues en 3 jours.",
-        "age": 3
+        "age": 0
       },
       "id": "GXqWF"
     },
@@ -241,11 +225,11 @@
       "properties": {
         "zone": "Die / Sainte-Croix 2",
         "qui s'en occupe": "Matthieu, Morgane, Quentin, Guillaume",
-        "date": "23/07/2026",
+        "date": "26/07/2026",
         "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
-        "age": 3,
+        "age": 0,
         "_umap_options": {
-          "color": "gold",
+          "color": "green",
           "iconClass": "Drop"
         }
       },
@@ -272,102 +256,6 @@
         }
       },
       "id": "BUyC6"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3558349609375,
-          44.76495715094729
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "tBApU"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3558349609375,
-          44.76495715094729
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "BnuVN"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3558349609375,
-          44.76495715094729
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "hRUek"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433769,
-          44.781348
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "7I6eV"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.275383,
-          44.813831
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "s2OtK"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3088,
-          44.768187
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "kFuHb"
     },
     {
       "type": "Feature",
