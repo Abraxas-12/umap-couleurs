@@ -336,6 +336,54 @@
         }
       },
       "id": "7I6eV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275383,
+          44.813831
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "s2OtK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3088,
+          44.768187
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "kFuHb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.309486,
+          44.765343
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "mCGTB"
     }
   ],
   "properties": {
