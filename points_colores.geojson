@@ -35,11 +35,11 @@
       "properties": {
         "zone": "Die / Sainte-Croix 2",
         "qui s'en occupe": "Rita, Matthieu, Morgane, Quentin, Guillaume",
-        "date": "26/07/2026",
+        "date": "02/08/2026",
         "description": "Installation d'une nouvelle bassine à coté de la première le 21/07/2026.\nQuand on arrive sur la première bassine, la deuxième est placée sur la droite.",
-        "age": 7,
+        "age": 0,
         "_umap_options": {
-          "color": "red",
+          "color": "green",
           "iconClass": "Drop"
         }
       },
@@ -227,13 +227,11 @@
       "properties": {
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "red"
+          "color": "gray"
         },
-        "date": "26/07/2026",
         "zone": "Die / Sainte-Croix",
         "qui s'en occupe": "Rita, Camille, Matthieu, Morgane, Quentin, Guillaume",
-        "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine bleue enterrée dans les sous bois. Deuxième bassine un peu plus haut en remontant la coulée 19/07: 30 litres bues en 3 jours.\n{{https://i.ibb.co/7NGqmhnb/grive.jpg}}",
-        "age": 7
+        "description": "Espace pour se garer sur le bord de la route Ficelle bleu à l'entrée du chemin, suivre les marqueurs puis quelques mètres au dessus bassine bleue enterrée dans les sous bois. Deuxième bassine un peu plus haut en remontant la coulée.\n(Bassine enlevée, elle fuyait)\n{{https://i.ibb.co/7NGqmhnb/grive.jpg}}"
       },
       "id": "GXqWF"
     },
