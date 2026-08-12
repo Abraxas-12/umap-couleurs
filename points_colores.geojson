@@ -121,13 +121,13 @@
         "type": "Point"
       },
       "properties": {
-        "date": "06/08/2026",
+        "date": "12/08/2026",
         "zone": "Aurel ",
         "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026 Point GPS : 44,704141 ; 5,296403",
         "qui s'en occupe": "Lucile",
-        "age": 6,
+        "age": 0,
         "_umap_options": {
-          "color": "red",
+          "color": "green",
           "iconClass": "Drop"
         }
       },
