@@ -218,70 +218,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.336335301399231,
-          44.75716774190457
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "NGUbf"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.33760130405426,
-          44.75994843387795
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "Wp9oD"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.33760130405426,
-          44.75994843387795
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "ViY2p"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.33760130405426,
-          44.75994843387795
-        ]
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "3s2P4"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.336507,
           44.756756
         ]
@@ -291,7 +227,7 @@
           "color": "green",
           "iconClass": "Drop"
         },
-        "date": "2026-08-17",
+        "date": "17/08/2026",
         "zone": "Die - secteur Chapias",
         "qui s'en occupe": "Elodie",
         "description": "Bassine d’environ 18L enterrée sur passage proche ruisseau asséché. Tissu jaune noué à un arbre pour repérage.",
