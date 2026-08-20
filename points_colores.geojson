@@ -6,88 +6,124 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.313921,
-          44.661044
+          5.336507,
+          44.756756
         ]
       },
       "properties": {
-        "description": "Bassine 8L en observation",
-        "date": "22/07/2026",
-        "qui s'en occupe": "Pierre et Karine",
-        "zone": "Rimon Valat",
-        "age": 29,
+        "_umap_options": {
+          "color": "gold",
+          "iconClass": "Drop"
+        },
+        "date": "17/08/2026",
+        "zone": "Die - secteur Chapias",
+        "qui s'en occupe": "Elodie",
+        "description": "Bassine d’environ 18L enterrée sur passage proche ruisseau asséché. Tissu jaune noué à un arbre pour repérage.",
+        "age": 3
+      },
+      "id": "UFx7Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.38639,
+          44.701081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "gray"
+        },
+        "zone": "Solaure",
+        "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. Au total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux.",
+        "qui s'en occupe": "Borium (Alice Barreau) et Martin "
+      },
+      "id": "0PTks"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326238,
+          44.641366
+        ]
+      },
+      "properties": {
+        "zone": "Col de Pennes 2",
+        "qui s'en occupe": "Carlotta, Martin, Agaric, René",
+        "description": "Installation de 2 bassines le 15/07/26",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "8BCcM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3749,
+          44.683476
+        ]
+      },
+      "properties": {
+        "date": "20/08/2026",
+        "zone": "Entrée vieux Montmaur",
+        "description": "En contre bas de l'aire de pique nique, avant l'entrée du vieux Montmaure.\nFoulard blanc attaché à un arbre. ",
+        "qui s'en occupe": "Claire, Sabine",
+        "age": 0,
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Drop"
+        }
+      },
+      "id": "rImcD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326041,
+          44.642954
+        ]
+      },
+      "properties": {
+        "zone": "Col de Pennes 1",
+        "qui s'en occupe": "Carlotta, Agaric, Martin, René",
+        "description": "Installation de 2 Bassines le 15/07/26",
+        "_umap_options": {
+          "color": "gray"
+        }
+      },
+      "id": "43k5J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.296403,
+          44.704141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "12/08/2026",
+        "zone": "Aurel ",
+        "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026 Point GPS : 44,704141 ; 5,296403",
+        "qui s'en occupe": "Lucile",
+        "age": 8,
         "_umap_options": {
           "color": "red",
           "iconClass": "Drop"
         }
       },
-      "id": "BUyC6"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.36599,
-          44.66551
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "red"
-        },
-        "date": "14/08/2026",
-        "zone": "Barnave 2",
-        "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres. 25l / installée le 1e juillet 2026",
-        "qui s'en occupe": "Groupe Barnave",
-        "age": 6
-      },
-      "id": "jfMFH"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.273363,
-          44.715631
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "green"
-        },
-        "date": "19/08/2026",
-        "zone": "Aurel proche barsac",
-        "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
-        "qui s'en occupe": "Nina, Alexei, Camille",
-        "age": 1
-      },
-      "id": "qZgsQ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.272226,
-          44.806697
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "iconClass": "Drop",
-          "color": "red"
-        },
-        "date": "14/07/2026",
-        "zone": "Saint-Étienne",
-        "qui s'en occupe": "Auriane",
-        "description": "Deux bassines , une grande une petite. Contenance totale 50l  Installée le 14/07",
-        "age": 37
-      },
-      "id": "OS3yo"
+      "id": "UuHk0"
     },
     {
       "type": "Feature",
@@ -115,125 +151,89 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.296403,
-          44.704141
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "date": "12/08/2026",
-        "zone": "Aurel ",
-        "description": "Route de la maladrière. Rafia rose aux arbres. Chemins d'animaux. Installée le 16/07/2026 Point GPS : 44,704141 ; 5,296403",
-        "qui s'en occupe": "Lucile",
-        "age": 8,
-        "_umap_options": {
-          "color": "red",
-          "iconClass": "Drop"
-        }
-      },
-      "id": "UuHk0"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326041,
-          44.642954
-        ]
-      },
-      "properties": {
-        "zone": "Col de Pennes 1",
-        "qui s'en occupe": "Carlotta, Agaric, Martin, René",
-        "description": "Installation de 2 Bassines le 15/07/26",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "43k5J"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3749,
-          44.683476
-        ]
-      },
-      "properties": {
-        "date": "16/08/2026",
-        "zone": "Entrée vieux Montmaur",
-        "description": "En contre bas de l'aire de pique nique, avant l'entrée du vieux Montmaure.\nFoulard blanc attaché à un arbre. ",
-        "qui s'en occupe": "Claire, Sabine",
-        "age": 4,
-        "_umap_options": {
-          "color": "red",
-          "iconClass": "Drop"
-        }
-      },
-      "id": "rImcD"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.326238,
-          44.641366
-        ]
-      },
-      "properties": {
-        "zone": "Col de Pennes 2",
-        "qui s'en occupe": "Carlotta, Martin, Agaric, René",
-        "description": "Installation de 2 bassines le 15/07/26",
-        "_umap_options": {
-          "color": "gray"
-        }
-      },
-      "id": "8BCcM"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.38639,
-          44.701081
+          5.272226,
+          44.806697
         ],
         "type": "Point"
       },
       "properties": {
         "_umap_options": {
           "iconClass": "Drop",
-          "color": "gray"
+          "color": "red"
         },
-        "zone": "Solaure",
-        "description": "Secteur sous Solaure (grosso modo entre les Tuillières et La Salle) ravitaillé en eau. Au total 6 points d'eau/ environs 200L + remplissage de souilles + ruisseaux.",
-        "qui s'en occupe": "Borium (Alice Barreau) et Martin "
+        "date": "14/07/2026",
+        "zone": "Saint-Étienne",
+        "qui s'en occupe": "Auriane",
+        "description": "Deux bassines , une grande une petite. Contenance totale 50l  Installée le 14/07",
+        "age": 37
       },
-      "id": "0PTks"
+      "id": "OS3yo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.273363,
+          44.715631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "green"
+        },
+        "date": "19/08/2026",
+        "zone": "Aurel proche barsac",
+        "description": "Ficelle bleu à l'orée de la forêt sur une branche marque l'entrée du chemin puis marqueurs avec ficelle jusqu'à la bassine enterrée  installée le 13/07/2026",
+        "qui s'en occupe": "Nina, Alexei, Camille",
+        "age": 1
+      },
+      "id": "qZgsQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.36599,
+          44.66551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "color": "red"
+        },
+        "date": "14/08/2026",
+        "zone": "Barnave 2",
+        "description": "Dans un virage, un chemin d'animaux mène à la bassine. Du rafia rose dans les arbres. 25l / installée le 1e juillet 2026",
+        "qui s'en occupe": "Groupe Barnave",
+        "age": 6
+      },
+      "id": "jfMFH"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.336507,
-          44.756756
+          5.313921,
+          44.661044
         ]
       },
       "properties": {
+        "description": "Bassine 8L en observation",
+        "date": "22/07/2026",
+        "qui s'en occupe": "Pierre et Karine",
+        "zone": "Rimon Valat",
+        "age": 29,
         "_umap_options": {
-          "color": "gold",
+          "color": "red",
           "iconClass": "Drop"
-        },
-        "date": "17/08/2026",
-        "zone": "Die - secteur Chapias",
-        "qui s'en occupe": "Elodie",
-        "description": "Bassine d’environ 18L enterrée sur passage proche ruisseau asséché. Tissu jaune noué à un arbre pour repérage.",
-        "age": 3
+        }
       },
-      "id": "UFx7Z"
+      "id": "BUyC6"
     }
   ],
   "properties": {
